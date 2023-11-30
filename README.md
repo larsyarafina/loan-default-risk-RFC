@@ -7,4 +7,4 @@ As a data scientist team, we did:
 - analyze the factors that influence the problem
 - create business recommendations to the company
 
-I also write about this project in Medium ...
+I also write about this project in [Medium Post](https://medium.com/@larasati.syarafina.q/loan-default-risk-based-on-customer-behavior-using-random-forest-classifier-and-smote-25d9fd567a2d)
